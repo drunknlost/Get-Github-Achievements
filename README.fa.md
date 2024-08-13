@@ -47,13 +47,14 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
-    <img src="assets/Github-Logo.png" alt="Github-Logo">
+    <img src="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png" alt="Github-Logo">
   </picture><br>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
-    <img width="50%" src="assets/Github-Text.png" alt="Github-Text">
+    <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png" alt="Github-Text">
   </picture>
 </div>
+
 
 <br>
 
